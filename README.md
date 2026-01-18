@@ -99,7 +99,7 @@ similarity = cosine_similarity(concept_vector, test_embeddings)
 
 ##  Model Architecture
 
-![Model_Architecture](model_architecture.png)
+![Model_Architecture](model_architecture.jpg)
 
 
 ## 📈 Key Results
@@ -138,17 +138,17 @@ similarity = cosine_similarity(concept_vector, test_embeddings)
 
 ### Some Visualization
 
-![Explained Variance Across Categories and Layers](img1.png)
+![Explained Variance Across Categories and Layers](img1.jpg)
 
-![Explained Variance Heatmap](img2.png).
+![Explained Variance Heatmap](img2.jpg).
 
-![Stimulus Clustering Indian Geography(Layer 12)](img3.png)
+![Stimulus Clustering Indian Geography(Layer 12)](img3.jpg)
 
-![Stimulus Clustering Indian language(Layer 12)](img4.png)
+![Stimulus Clustering Indian language(Layer 12)](img4.jpg)
 
-![Similarity Matrix Indian Festival(Layer 12)](img5.png)
+![Similarity Matrix Indian Festival(Layer 12)](img5.jpg)
 
-![Similarity Matrix Indian Geography](img6.png)
+![Similarity Matrix Indian Geography](img6.jpg)
 
 ### Intervention Testing: Patriarchy
 

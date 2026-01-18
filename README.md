@@ -65,6 +65,7 @@ Systematically generated across four categories:
 | **Indian Festivals** | 10 festivals | 600 | Diwali, Holi, Pongal, Navratri... |
 | **Indian Languages** | 10 languages | 590 | Hindi, Tamil, Telugu, Bengali... |
 
+
 ## 🔬 Methodology
 
 ### Contrast Vector Extraction Pipeline
@@ -95,6 +96,11 @@ similarity = cosine_similarity(concept_vector, test_embeddings)
 3. **PCA Direction Estimation**: Dominant semantic axes via dimensionality reduction
 4. **Validation Testing**: Direct/indirect similarity + discrimination analysis
 5. **Causal Intervention**: Strength-graded steering of model outputs
+
+##  Model Architecture
+
+![Model_Architecture](images/model_architecture.png)
+
 
 ## 📈 Key Results
 
@@ -129,6 +135,20 @@ similarity = cosine_similarity(concept_vector, test_embeddings)
 | Indirect queries ("City of Joy") | 0.942 |
 | Distractor cities (other metros) | -0.934 |
 | **Discrimination Gap** | **1.884** |
+
+### Some Visualization
+
+![Explained Variance Across Categories and Layers](images/img1.png)
+
+![Explained Variance Heatmap](images/img2.png).
+
+![Stimulus Clustering Indian Geography(Layer 12)](images/img3.png)
+
+![Stimulus Clustering Indian language(Layer 12)](images/img4.png)
+
+![Similarity Matrix Indian Festival(Layer 12)](images/img5.png)
+
+![Similarity Matrix Indian Geography](images/img6.png)
 
 ### Intervention Testing: Patriarchy
 

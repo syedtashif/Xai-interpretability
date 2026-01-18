@@ -196,7 +196,7 @@ The notebook includes comprehensive visualizations:
 
 ## 🔍 Research Contributions
 
-### Methodological Innovation
+### Methodology
 
 - **Unified framework** for analyzing subjective social norms and objective cultural facts
 - **Validation methodology** achieving >0.94 similarity and 1.88 discrimination gaps

@@ -271,7 +271,7 @@ We extend our gratitude to:
 
 For questions, collaborations, or feedback:
 - Open an issue in this repository
-- Email: [your-email@example.com]
+- Email: [syedtashif239@gmail.com]
 
 ---
 
